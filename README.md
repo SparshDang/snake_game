@@ -8,4 +8,6 @@ To Start Playing:
   
 First install the pygame module then Run the snake.py file.
 
+To Pause Game press 'p' on your keyboard.
+
 SO ENJOY THIS GAME, YOU WILL LIKE IT VERY MUCH!!!!
